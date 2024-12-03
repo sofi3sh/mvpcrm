@@ -1,0 +1,17 @@
+ //To get started, update your .env configuration file to use Laravel's
+
+ DB_CONNECTION=mysql
+ DB_HOST=127.0.0.1
+ DB_PORT=3306
+ DB_DATABASE=laravel
+ DB_USERNAME=root
+ DB_PASSWORD=
+
+
+ //database migrations, which will create
+
+ php artisan migrate
+
+ // How to install Auth in laravel
+
+ npm install && npm run dev
